@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
 
   # Source Location
-  s.source       = { :git => 'https://bitbucket.org/npaw/brightcove-adapter-ios.git', :tag => s.version }
+  s.source       = { :git => 'https://github.com/diegomendezp/brightcove-adapter-ios', :tag => s.version }
 
   # Source files
   s.source_files  = 'YouboraBrightcoveAdapter/**/*.{h,m}'
