@@ -39,6 +39,6 @@ Pod::Spec.new do |s|
   # Dependency
   s.dependency 'YouboraLib', '~> 6.5.38'
   s.dependency 'Brightcove-Player-Core/dynamic'
-  s.dependency 'Brightcove-Player-IMA', '~> 6.7.0'
+  s.dependency 'Brightcove-Player-IMA', '6.11.2'
 
 end
